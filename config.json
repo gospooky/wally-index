@@ -1,6 +1,6 @@
 {
-	"api": "https://temp.com",
+	"api": "https://wally-backend-30193726845.europe-west4.run.app",
 	"fallback_registries": [
-		"https://github.com/gospooky/wally-index"
+        "https://github.com/UpliftGames/wally-index"
 	]
 }
